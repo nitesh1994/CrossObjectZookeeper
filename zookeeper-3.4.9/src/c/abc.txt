@@ -1,0 +1,8 @@
+Batch mode: get /TableT.busy
+Watcher SESSION_EVENT state = CONNECTED_STATE
+Got a new session id: 0x16ace4b1fe8000e
+Watcher SESSION_EVENT state = CONNECTED_STATE
+2019-05-18 21:24:15,735:25633(0x7fc9caeb3700):ZOO_ERROR@handle_socket_error_msg@2280: Socket [127.0.0.1:2181] zk retcode=-2, errno=115(Operation now in progress): unexpected server response: expected 0, but received 0x5ce0da70
+Watcher SESSION_EVENT state = CONNECTING_STATE
+/TableT.busy: rc = -2
+bye
